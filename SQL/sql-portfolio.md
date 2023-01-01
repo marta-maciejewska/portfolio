@@ -31,7 +31,7 @@ FROM  Person.BusinessEntity
 
 ![obrazek nr1](img/01.jpg)
 
-### 3. Teraz mogę dodać nowego użytkownika, podając najnowszy BusinessEntityID i pozostałe wymanage wartości (kolumny, które w opisie mają `not null`):
+### 3. Teraz mogę dodać nowego użytkownika, podając najnowszy BusinessEntityID i pozostałe wymagane wartości (kolumny, które w opisie mają `not null`):
 
 ![obrazek nr2](img/02.jpg)
 
