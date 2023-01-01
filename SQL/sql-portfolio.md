@@ -6,7 +6,7 @@ Przed dodaniem wpisu do tabeli Person.Person należy najpierw dodać wpis do tab
 
 Tabela Person.Person ma ustawioną kolumnę BusinessEntityID jako PrimaryKey (PK) i ForeignKey(FK), dlatego powyższe jest wymagane.
  
-Struktura tabeli Person.BusinessEntity:
+Struktura tabeli Person.BusinessEntity (fragment):
 
 ```sql
 CREATE TABLE Person.BusinessEntity(
