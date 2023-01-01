@@ -2,7 +2,8 @@
 
 ### 1. Dodawanie nowego użytkownika do tabeli Person.Person:
 
-Przed dodaniem wpisu do tabeli Person.Person należy najpierw dodać wpis do tabeli Person.BusinessEntity, która zawiera PrimaryKey (PK) na kolumnie: BusinessEntityID
+Przed dodaniem wpisu do tabeli Person.Person należy najpierw dodać wpis do tabeli Person.BusinessEntity, która zawiera PrimaryKey (PK) na kolumnie: BusinessEntityID.
+
 Tabela Person.Person ma ustawioną kolumnę BusinessEntityID jako PrimaryKey (PK) i ForeignKey(FK), dlatego powyższe jest wymagane.
  
 Struktura tabeli Person.BusinessEntity:
