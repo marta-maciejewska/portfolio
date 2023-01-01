@@ -1,4 +1,4 @@
-# Przestestowanie ogólnodostępnej bazy danych AdventureWorks2014
+# Przetestowanie ogólnodostępnej bazy danych AdventureWorks2014
 
 ### 1. Dodawanie nowego użytkownika do tabeli Person.Person:
 
