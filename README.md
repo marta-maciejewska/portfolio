@@ -8,7 +8,7 @@ Kilka miesięcy temu rozpoczęłam samodzielną naukę z ogólnodostępnych źr�
 
 # NARZĘDZIA
 
-* JIRA - używam na co dzień w obecnej pracy do zgłaszania błędów programistom
+* JIRA (używam na co dzień w obecnej pracy do zgłaszania błędów programistom)
 * TRELLO 
 * POSTMAN
 * SWAGGER
