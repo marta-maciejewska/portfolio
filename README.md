@@ -9,11 +9,11 @@ Kilka miesięcy temu rozpoczęłam samodzielną naukę z ogólnodostępnych źr�
 # NARZĘDZIA
 
 * JIRA - używam na co dzień w obecnej pracy do zgłaszania błędów programistom
-* TRELLO 
+* TRELLO - [portfolio testowania manualnego z raportami błędów zgłoszonymi w Trello](https://drive.google.com/file/d/1uvWOVUwvYIXLZOLYoiyOFYSYSWhkvMUc/view?usp=sharing)
 * POSTMAN
 * SWAGGER
 * GITHUB 
-* MySQL - [mój projekt stworzony na bazie kursu](https://github.com/marta-maciejewska/portfolio/blob/main/SQL/sql-portfolio.md)
+* MySQL - [projekt stworzony na bazie kursu](https://github.com/marta-maciejewska/portfolio/blob/main/SQL/sql-portfolio.md)
 * DEVTOOLS
 
 W planach na najbliższe miesiące: SOAP UI, LINUX
