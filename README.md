@@ -12,8 +12,8 @@ Kilka miesięcy temu rozpoczęłam samodzielną naukę z ogólnodostępnych źr�
 * TRELLO 
 * POSTMAN
 * SWAGGER
-* GITHUB
-* MySQL
+* GITHUB 
+* MySQL - [mój projekt stworzony na bazie kursu](https://github.com/marta-maciejewska/portfolio/blob/main/SQL/sql-portfolio.md)
 * DEVTOOLS
 
 W planach na najbliższe miesiące: SOAP UI, LINUX
