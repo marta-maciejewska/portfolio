@@ -29,6 +29,30 @@ W trakcie: Coders Lab - podstawy HTML i CSS
 
 # KSIĄŻKI
 
+* A. Roman/L. Stapp - Certyfikowany tester ISTQB  Poziom podstawowy
+* R. Smilgin - Zawód tester
+* K. Pawłowska / N. Pawlak - Podróż przez świat testowania
+
+W trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
+
+# TESTERSKIE GRUPY
+
+* Cherry IT: zostań testerem
+* Testowanie oprogramowania
+* Testuj, dziewczyno!
+* Girls who test community
+* Tester oprogramowania - wsparcie na starcie
+
+# OBSERWOWANE BLOGI / PROFILE W SOCIAL MEDIA
+
+* [testerzy.pl](https://testerzy.pl/)
+* [wyszkolewas](https://www.wyszkolewas.com.pl/)
+* [Stefania Winkel](https://www.instagram.com/mentor_testowania_opr/)
+* [Adam Gola](https://www.instagram.com/szkoleniedlaqa/)
+* [TestITka](https://www.instagram.com/test.it.ka/)
+* [Akademia QA](https://www.instagram.com/akademiaqa.pl/)
+
+
 
 
 
