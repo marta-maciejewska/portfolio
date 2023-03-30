@@ -55,9 +55,9 @@ W trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
 
 # MOJE PROJEKTY
 
-* [Testowanie manualne aplikacji](https://drive.google.com/file/d/1uvWOVUwvYIXLZOLYoiyOFYSYSWhkvMUc/view?usp=sharing) - Portfolio testowania manualnego: przypadki testowe na bazie dokumentacji + zgłoszenia błędów na tablicy Trello
-* [SQL](https://github.com/marta-maciejewska/portfolio/blob/main/SQL/sql-portfolio.md) - Podstawowe zapytania SQL - baza danych AdventureWorks2014
-* [Postman](https://www.postman.com/martamaciejewska/workspace/testing-api-course) - Testowanie REST API przy użyciu Postmana
+* [Testowanie manualne aplikacji](https://drive.google.com/file/d/1uvWOVUwvYIXLZOLYoiyOFYSYSWhkvMUc/view?usp=sharing) - przypadki testowe na bazie dokumentacji + zgłoszenia błędów na tablicy Trello
+* [SQL](https://github.com/marta-maciejewska/portfolio/blob/main/SQL/sql-portfolio.md) - podstawowe zapytania SQL - baza danych AdventureWorks2014
+* [Postman](https://www.postman.com/martamaciejewska/workspace/testing-api-course) - testowanie REST API przy użyciu Postmana
 
 
 
