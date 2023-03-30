@@ -15,4 +15,5 @@ Kilka miesięcy temu rozpoczęłam samodzielną naukę z ogólnodostępnych źr�
 * GITHUB
 * MySQL
 * DEVTOOLS
+
 W planach na najbliższe miesiące: SOAP UI, LINUX
