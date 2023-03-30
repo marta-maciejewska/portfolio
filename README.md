@@ -9,11 +9,11 @@ Kilka miesięcy temu rozpoczęłam samodzielną naukę z ogólnodostępnych źr�
 # NARZĘDZIA
 
 * JIRA - używam na co dzień w obecnej pracy do zgłaszania błędów programistom
-* TRELLO - [portfolio testowania manualnego z raportami błędów zgłoszonymi w Trello](https://drive.google.com/file/d/1uvWOVUwvYIXLZOLYoiyOFYSYSWhkvMUc/view?usp=sharing)
+* TRELLO 
 * POSTMAN
 * SWAGGER
 * GITHUB 
-* MySQL - [projekt stworzony na bazie kursu](https://github.com/marta-maciejewska/portfolio/blob/main/SQL/sql-portfolio.md)
+* MySQL 
 * DEVTOOLS
 
 W planach na najbliższe miesiące: SOAP UI, LINUX
@@ -52,6 +52,11 @@ W trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
 * [TestITka](https://www.instagram.com/test.it.ka/)
 * [Akademia QA](https://www.instagram.com/akademiaqa.pl/)
 * [Quality Island](https://www.linkedin.com/company/qualityisland/)
+
+# MOJE PROJEKTY
+
+* [Portfolio testowania manualnego: przypadki testowe na bazie dokumentacji + zgłoszenia błędów](https://drive.google.com/file/d/1uvWOVUwvYIXLZOLYoiyOFYSYSWhkvMUc/view?usp=sharing)
+* [Podstawowe zapytania SQL - baza danych AdventureWorks2014](https://github.com/marta-maciejewska/portfolio/blob/main/SQL/sql-portfolio.md)
 
 
 
