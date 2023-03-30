@@ -6,7 +6,7 @@ Moja przygoda z testowaniem rozpoczęła się przypadkowo, ale miała ścisły z
 Kilka miesięcy temu rozpoczęłam samodzielną naukę z ogólnodostępnych źródeł, a wraz ze zdobywaniem kolejnych umiejętności tylko upewniam się, że chcę być testerką!
 
 
-# NARZĘDZIA POZNANE DO TEJ PORY
+# NARZĘDZIA
 
 * JIRA - używam na co dzień w obecnej pracy do zgłaszania błędów programistom
 * TRELLO 
