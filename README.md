@@ -20,10 +20,10 @@ W planach na najbliższe miesiące: SOAP UI, LINUX
 
 # KURSY
 
-* [06/2022 Udemy - Podstawy manualnego testowania oprogramowania](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bd9bdfe2-ccd3-4876-b217-979945d5326c.pdf)
-* [09/2022 Ifs&Whiles - Warsztaty praktyczne: testowanie manualne aplikacji](https://drive.google.com/file/d/1gjMqBTXUeTuhtqtim66TvMR_70Q9LBzq/view)
-* [11/2022 Udemy - Kurs SQL od podstaw|MySQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-08c6f5d5-203d-48d5-8d22-be30d3ca0dc0.pdf)
-* [03/2023 Quality Island - Introduction to API testing in Postman](https://verified.sertifier.com/en/verify/43633670833562)
+* 06/2022 Udemy - [Podstawy manualnego testowania oprogramowania](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bd9bdfe2-ccd3-4876-b217-979945d5326c.pdf)
+* 09/2022 Ifs&Whiles - [Warsztaty praktyczne: testowanie manualne aplikacji](https://drive.google.com/file/d/1gjMqBTXUeTuhtqtim66TvMR_70Q9LBzq/view)
+* 11/2022 Udemy - [Kurs SQL od podstaw|MySQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-08c6f5d5-203d-48d5-8d22-be30d3ca0dc0.pdf)
+* 03/2023 Quality Island - [Introduction to API testing in Postman](https://verified.sertifier.com/en/verify/43633670833562)
 
 W trakcie: Coders Lab - podstawy HTML i CSS
 
