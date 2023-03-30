@@ -24,16 +24,18 @@ W planach na najbliższe miesiące: SOAP UI, LINUX
 * 09/2022 Ifs&Whiles - [Warsztaty praktyczne: testowanie manualne aplikacji](https://drive.google.com/file/d/1gjMqBTXUeTuhtqtim66TvMR_70Q9LBzq/view)
 * 11/2022 Udemy - [Kurs SQL od podstaw|MySQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-08c6f5d5-203d-48d5-8d22-be30d3ca0dc0.pdf)
 * 03/2023 Quality Island - [Introduction to API testing in Postman](https://verified.sertifier.com/en/verify/43633670833562)
+* w trakcie: Coders Lab - podstawy HTML i CSS
 
-W trakcie: Coders Lab - podstawy HTML i CSS
+
 
 # KSIĄŻKI
 
 * A. Roman/L. Stapp - Certyfikowany tester ISTQB  Poziom podstawowy
 * R. Smilgin - Zawód tester
 * K. Pawłowska/N. Pawlak - Podróż przez świat testowania
+* w trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
 
-W trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
+
 
 # TESTERSKIE GRUPY
 
