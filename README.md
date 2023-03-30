@@ -31,7 +31,7 @@ W trakcie: Coders Lab - podstawy HTML i CSS
 
 * A. Roman/L. Stapp - Certyfikowany tester ISTQB  Poziom podstawowy
 * R. Smilgin - Zawód tester
-* K. Pawłowska / N. Pawlak - Podróż przez świat testowania
+* K. Pawłowska/N. Pawlak - Podróż przez świat testowania
 
 W trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
 
