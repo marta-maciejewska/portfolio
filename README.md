@@ -51,6 +51,7 @@ W trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
 * [Adam Gola](https://www.instagram.com/szkoleniedlaqa/)
 * [TestITka](https://www.instagram.com/test.it.ka/)
 * [Akademia QA](https://www.instagram.com/akademiaqa.pl/)
+* [Quality Island](https://www.linkedin.com/company/qualityisland/)
 
 
 
