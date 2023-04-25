@@ -33,6 +33,7 @@ W planach na najbliższe miesiące: SOAP UI, LINUX
 * A. Roman/L. Stapp - Certyfikowany tester ISTQB  Poziom podstawowy
 * R. Smilgin - Zawód tester
 * K. Pawłowska/N. Pawlak - Podróż przez świat testowania
+* M. Dusiński/T.Borowiec - #AgileKtóryDziała. Pracuj zwinnie i skutecznie
 * w trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
 
 
