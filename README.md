@@ -15,6 +15,7 @@ Kilka miesięcy temu rozpoczęłam samodzielną naukę z ogólnodostępnych źr�
 * GITHUB 
 * MySQL 
 * DEVTOOLS
+* GIT
 
 W planach na najbliższe miesiące: SOAP UI, LINUX
 
@@ -34,6 +35,7 @@ W planach na najbliższe miesiące: SOAP UI, LINUX
 * R. Smilgin - Zawód tester
 * K. Pawłowska/N. Pawlak - Podróż przez świat testowania
 * M. Dusiński/T.Borowiec - #AgileKtóryDziała. Pracuj zwinnie i skutecznie
+* A. Kunysz - Kierunek jakość. Jak unikać błędów w projekcie
 * w trakcie: R. Smilgin - Praktyka testowania, zeszyt ćwiczeń
 
 
