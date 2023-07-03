@@ -3,7 +3,7 @@
 Cześć! Mam na imię Marta i jestem początkującą testerką. 
  
 Moja przygoda z testowaniem rozpoczęła się przypadkowo, ale miała ścisły związek z predyspozycjami i cechami charakteru - zainspirowało mnie szkolenie w obecnej pracy dotyczące testów biznesowych. Zauważyłam też, że współpracownicy często mi mówią, że mam "sokole oko" i wyłapuję błędy, których inni nie widzą. 
-Rozpoczęłam samodzielną naukę z ogólnodostępnych źródeł, a w przyszłości zamierzam kompleksowo dbać o jakość jako Quality Assurance.
+Rozpoczęłam samodzielną naukę z ogólnodostępnych źródeł, a w przyszłości zamierzam kompleksowo dbać o jakość jako Quality Assurance Engineer.
 
 
 # NARZĘDZIA
