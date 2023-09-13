@@ -30,6 +30,7 @@ W planach na najbliższe miesiące: SOAP UI, LINUX
   
 # KURSY
 
+* 09/2023 Cisco Network Academy - [Wprowadzenie do cyberbezpieczeństwa](https://drive.google.com/file/d/1MkJjHZumPpYCL1bq-MCS2cOYK9KVc3mk/view?usp=drive_link)
 * 03/2023 Quality Island - [Introduction to API testing in Postman](https://verified.sertifier.com/en/verify/43633670833562)
 * 11/2022 Udemy - [Kurs SQL od podstaw|MySQL](https://udemy-certificate.s3.amazonaws.com/pdf/UC-08c6f5d5-203d-48d5-8d22-be30d3ca0dc0.pdf)
 * 09/2022 Ifs&Whiles - [Warsztaty praktyczne: testowanie manualne aplikacji](https://drive.google.com/file/d/1gjMqBTXUeTuhtqtim66TvMR_70Q9LBzq/view)
